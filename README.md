@@ -1,2 +1,3 @@
-# angular-the-complete-guide
-Angular The Complete Guide (Course)
+# Angular The Complete Guide
+
+Course notes
